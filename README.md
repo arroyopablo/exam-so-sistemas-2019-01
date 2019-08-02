@@ -15,7 +15,7 @@ tiempos (Con un argumento de 100000):
 - 0.000719 - descartado segun la guia
 
 ## Utilizando la puerta por dentro del fork{}
-tiempos (Con un argumento de 999999):
+tiempos (Con un argumento de 100000):
 - 0.013656
 - 0.015766 
 - 0.016694
